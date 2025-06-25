@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Swapnil Joshi
+# 👋 Hello, I'm Swapnil Joshi
 
 🎓 M.Tech in Product Design & Manufacturing  
 🔧 Mechanical Engineer passionate about CAD, FEA & Simulation  
@@ -47,7 +47,6 @@
 ## 📚 What I’m Learning
 - Advanced FEA using Abaqus & Ansys
 - CAD optimization & design thinking
-- GitHub project documentation
 
 ---
 
