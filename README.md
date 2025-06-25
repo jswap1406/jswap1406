@@ -3,7 +3,7 @@
 🎓 M.Tech in Product Design & Manufacturing  
 🔧 Mechanical Engineer passionate about CAD, FEA & Simulation  
 🛠️ Tools I Use: CATIA V5, Abaqus, Ansys, Fusion 360  
-📊 > Focused on structural, thermal, and wear analysis through CAD/FEA tools with strong foundations in material modeling and mechanical design.
+📊 Focused on structural, thermal, and wear analysis through CAD/FEA tools with strong foundations in material modeling and mechanical design.
 
 ---
 
