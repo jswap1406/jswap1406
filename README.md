@@ -52,7 +52,7 @@
 
 ## 📫 Reach Me
 
-- ✉️ Email: joshiswa456@gmail.com  
+- ✉️ Email: swapniljoshi.mech@gmail.com  
 - 💼 LinkedIn: [swapnil-joshi-08a1b6127](https://linkedin.com/in/swapnil-joshi-08a1b6127)
 
 Passionate about solving real-world problems using CAD & FEA — always building, always improving.
